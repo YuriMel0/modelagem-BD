@@ -28,7 +28,7 @@ Criar o modelo conceitual, lógico e físico de um banco de dados para um **e-co
 ## 📊 Modelo Entidade-Relacionamento (MER)
 Aqui está o diagrama do banco de dados:
 
-![Diagrama E-commerce](./E_COMERCE.png)
+![Diagrama E-commerce](./E-COMERCE.png)
 
 ---
 
